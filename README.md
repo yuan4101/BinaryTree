@@ -1,2 +1,2 @@
 # Binary Tree
-Binary Tree made in ED2 Lab (NetBeans Project)
+Binary Tree CRUDS made in ED2 Lab (NetBeans Project)
